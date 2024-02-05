@@ -1,0 +1,43 @@
+defaultIndent: "  "
+modifyLineBreaks:
+    preserveBlankLines: 0
+    condenseMultipleBlankLinesInto: 1
+indentRules:
+  frame: "  "
+  itemize: "  "
+  enumerate: "  "
+  description: "  "
+  block: "  "
+  table: "  "
+  table*: "  "
+  tabular: "  "
+  tabular*: "  "
+  equation: "  "
+  equation*: "  "
+  align: "  "
+  align*: "  "
+  multline: "  "
+  multline*: "  "
+  gathered: "  "
+  gathered*: "  "
+  split: "  "
+noAdditionalIndent:
+  abstract: 1
+  acknowledgements: 1
+  codeavailability: 1
+  codedataavailability: 1
+  dataavailability: 1
+  authorcontribution: 1
+  competinginterests: 1
+  citep: 1
+  citet: 1
+  citeauthor: 1
+  citeyear: 1
+  inlineMath: 1
+lookForAlignDelims:
+  align:
+    alignDoubleBackSlash: 0
+  align*:
+    alignDoubleBackSlash: 0
+  tabularx:
+    delims: 0

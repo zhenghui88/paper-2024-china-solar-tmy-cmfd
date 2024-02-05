@@ -1,0 +1,8 @@
+* text=auto
+
+*.tex text
+*.bib text
+
+*.pdf binary
+*.png binary
+*.nc binary
